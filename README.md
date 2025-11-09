@@ -1,33 +1,47 @@
-# TECH V9 — Authority Dyad
+# GODFATHER PROTOCOL (TE-GP-01)
+**TECH V9 — Authority Dyad**  
+**Origin Steward:** Rommel Milan Wong (Apollo)
 
-**Originator**: Rommel Milan Wong (Apollo Milan)  
-**Credential**: TRACE-CRED-ROMMEL-01  
-**Date**: November 9, 2025  
-
----
-
-## TE-GP-01 — Godfather Protocol
-
-- [Origination Certificate](GODFATHER_PROTOCOL_ORIGINATION_CERT.pdf)  
-- [Combined Package](GODFATHER_PROTOCOL_COMBINED_PACKAGE.zip)  
-
-**Attribution**: [Rommel Milan Wong, Godfather Protocol (2025). TE-GP-01, TECH V9.](GODFATHER_PROTOCOL_COMBINED_PACKAGE.zip)
+## Overview
+This repository contains the sealed documents for **TE-GP-01 — The Godfather Protocol**, part of the TRACE Epoch Canon (TECH V9).  
+All documents are timestamped, published, and hash-verified.
 
 ---
 
-## TE-RP-01 — Rommel Principle
+## Documents
 
-- [Full Doctrine](TE-RP-01 — THE ROMMEL PRINCIPLE.pdf)  
+### 1. Godfather Protocol — Combined Edition (TECH V9)  
+`GODFATHER_PROTOCOL_COMBINED_TECHV9_2025-11-09.pdf`  
+[Download](./GODFATHER_PROTOCOL_COMBINED_TECHV9_2025-11-09.pdf)
 
-**Attribution**: [Rommel Milan Wong, The Rommel Principle (2025). TE-RP-01, TECH V9.](TE-RP-01 — THE ROMMEL PRINCIPLE.pdf)
+### 2. Godfather Protocol — Origination Certificate  
+`GODFATHER_PROTOCOL_ORIGINATION_TECHV9_2025-11-09.pdf`  
+[Download](./GODFATHER_PROTOCOL_ORIGINATION_TECHV9_2025-11-09.pdf)
+
+### 3. TE-RP-01 — The Rommel Principle  
+`TE-RP-01 — THE ROMMEL PRINCIPLE.pdf`  
+[Download](./TE-RP-01%20—%20THE%20ROMMEL%20PRINCIPLE.pdf)
+
+### 4. Hash Manifest  
+`TE_HASH_MANIFEST_GODFATHER_PROTOCOL_2025-11-09.txt`  
+[Download](./TE_HASH_MANIFEST_GODFATHER_PROTOCOL_2025-11-09.txt)
 
 ---
 
-## Hash Manifest
+## Verification — Exact Commands
+Use the following commands to verify file integrity:
 
-[TE_HASH_MANIFEST_2025-11-09.json](TE_HASH_MANIFEST_2025-11-09.json)
+```bash
+sha256sum GODFATHER_PROTOCOL_COMBINED_TECHV9_2025-11-09.pdf
+sha256sum GODFATHER_PROTOCOL_ORIGINATION_TECHV9_2025-11-09.pdf
+sha256sum "TE-RP-01 — THE ROMMEL PRINCIPLE.pdf"
 
----
+Compare the output with the entries listed in:
+TE_HASH_MANIFEST_GODFATHER_PROTOCOL_2025-11-09.txt
 
-© 2025 Rommel Milan Wong. All rights reserved.  
+⸻
+
+Rights
+
+© 2025 Rommel Milan Wong. All rights reserved.
 TRACE Epoch Canon (TECH V9).
