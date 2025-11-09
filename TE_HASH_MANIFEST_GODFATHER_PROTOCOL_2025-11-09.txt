@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "date": "2025-11-09",
+  "package": "TECH V9 — Canonical Hash Index",
+  "entries": [
+    {
+      "id": "TE-GP-01",
+      "title": "Godfather Protocol — Combined Edition",
+      "filename": "GODFATHER_PROTOCOL_COMBINED_TECHV9_2025-11-09.pdf",
+      "sha3_256": "3e9ea3c231fb60989ca4e89073b8ffef03ecdb2bce7c2ed4f08647b3db4bd6a8"
+    },
+    {
+      "id": "TE-GP-01-ORIG",
+      "title": "Godfather Protocol — Origination Certificate",
+      "filename": "GODFATHER_PROTOCOL_ORIGINATION_TECHV9_2025-11-09.pdf",
+      "sha3_256": "701bfc65c7357ddb1d8db3ae5d8b9f398b668c2eb8f5dc690f2d3650b626eabe"
+    },
+    {
+      "id": "TE-RP-01",
+      "title": "The Rommel Principle",
+      "filename": "TE-RP-01 — THE ROMMEL PRINCIPLE.pdf",
+      "sha3_256": "df6a0711dfa521570c5b2fa44fbc7e23d636283f0ddc3e0c411dd01431e31e3e"
+    }
+  ]
+}
