@@ -8,10 +8,10 @@
 
 ## TE-GP-01 — Godfather Protocol
 
-- [Origination Certificate](GODFATHER_PROTOCOL_ORIGINATION_TECHV9_2025-11-09.pdf)  
-- [Combined Package](GODFATHER_PROTOCOL_COMBINED_TECHV9_2025-11-09.pdf)  
+- [Origination Certificate](GODFATHER_PROTOCOL_ORIGINATION_CERT.pdf)  
+- [Combined Package](GODFATHER_PROTOCOL_COMBINED_PACKAGE.zip)  
 
-**Attribution**: “Rommel Milan Wong, Godfather Protocol (2025)”
+**Attribution**: [Rommel Milan Wong, Godfather Protocol (2025). TE-GP-01, TECH V9.](GODFATHER_PROTOCOL_COMBINED_PACKAGE.zip)
 
 ---
 
@@ -19,13 +19,13 @@
 
 - [Full Doctrine](TE-RP-01 — THE ROMMEL PRINCIPLE.pdf)  
 
-**Attribution**: “Rommel Milan Wong, The Rommel Principle (2025). TE-RP-01, TECH V9.”
+**Attribution**: [Rommel Milan Wong, The Rommel Principle (2025). TE-RP-01, TECH V9.](TE-RP-01 — THE ROMMEL PRINCIPLE.pdf)
 
 ---
 
 ## Hash Manifest
 
-[TE_HASH_MANIFEST_2025-11-09.json](TE_HASH_MANIFEST_GODFATHER_PROTOCOL_2025-11-09.txt)
+[TE_HASH_MANIFEST_2025-11-09.json](TE_HASH_MANIFEST_2025-11-09.json)
 
 ---
 
