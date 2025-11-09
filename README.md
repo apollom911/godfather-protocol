@@ -17,7 +17,7 @@
 
 ## TE-RP-01 — Rommel Principle
 
-- [Full Doctrine](TE-RP-01_THE_ROMMEL_PRINCIPLE_2025-11-09.pdf)  
+- [Full Doctrine](TE-RP-01 — THE ROMMEL PRINCIPLE.pdf)  
 
 **Attribution**: “Rommel Milan Wong, The Rommel Principle (2025). TE-RP-01, TECH V9.”
 
@@ -25,7 +25,7 @@
 
 ## Hash Manifest
 
-[TE_HASH_MANIFEST_2025-11-09.json](TE_HASH_MANIFEST_2025-11-09.json)
+[TE_HASH_MANIFEST_2025-11-09.json](TE_HASH_MANIFEST_GODFATHER_PROTOCOL_2025-11-09.txt)
 
 ---
 
